@@ -32,3 +32,6 @@ sudo service grafana-server restart
  * From New Dashboard default **New Panel** will generate
  * Then click on **Add Query**
  * From **Query** Panel, select require events
+
+
+![Img](https://github.com/Nishchit14/ably-grafana-plugin/blob/master/Screenshot/SystemMonitor.png?raw=true)
