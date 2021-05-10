@@ -45,7 +45,7 @@
     "ably": "^1.1.22",
     "babel-plugin-add-module-exports": "^1.0.2",
     "express-ably-channels": "^1.0.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "homepage": "https://github.com/grafana/simple-json-datasource#readme"
 }
